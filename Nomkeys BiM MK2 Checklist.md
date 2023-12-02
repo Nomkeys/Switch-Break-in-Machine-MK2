@@ -19,13 +19,15 @@
 - [ ]  (2)Cam Lock
 - [ ]  (4)Cam Washer
 - [ ]  (2)Switch Holders
-- [ ]  (1)Motor
+- [ ]  (1)Pololu 37D 12V Motor (Gear Ratio 19:1 OR HIGHER)
 - [ ]  (1)Motor Mount
 - [ ]  (2)Cam
 - [ ]  (1)USB-C Module
 - [ ]  (1)USB-C Enclosure
-- [ ]  (1)Speed Module
+- [ ]  (1)USB-C PDC004-PD
+- [ ]  (1)PWM Speed Controller 5A 12V 90W
 - [ ]  (40)Keycaps
+- [ ]  (2)5mmx200mm Metal Rods
 
 # Addons
 
