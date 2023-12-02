@@ -5,7 +5,7 @@
 - [ ]  (2)M3x10
 - [ ]  (20)M3x8
 - [ ]  (4)M3 DIN 562 Square Nuts
-- [ ]  (8)M3 Threaded Inserts
+- [ ]  (8)M3 4.6mmx5.7mm Threaded Inserts
 - [ ]  (8)LM5UU Bearings
 - [ ]  (4)MR105-2RS Bearings
 - [ ]  (1)Body
